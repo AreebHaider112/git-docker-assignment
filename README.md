@@ -4,7 +4,7 @@ This repository contains a small Python web application used to practice Git, Gi
 
 ## Application
 
-The application listens on port 8000 and returns a plain-text welcome message when accessed over HTTP.
+The application listens on port 8000 and returns a plain-text welcome message, followed by a health status line with the NetID, when accessed over HTTP.
 
 ## Verification
 
